@@ -129,7 +129,7 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "https://shopsphere-front.vercel.app",
+    "https://matrix-blog-f.vercel.app",
 ]
 
 AUTH_USER_MODEL = 'users.User'
